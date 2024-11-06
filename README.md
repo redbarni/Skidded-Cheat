@@ -1,7 +1,4 @@
-# New-FiveM-Cheat
-
-This source is dtc but working fine , it's not clean code so don't be trash , it's like a "alpha" version 
-There is part of exec , sorry i was making something
+# Skidded Cheat
 
 Features :
 - Aimbot ( Visible check, magic bullet, adaptive weapon, fov, smooth, distance)
